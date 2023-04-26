@@ -34,6 +34,12 @@ Feel free to add more resources by submitting a pull request =)
 
 ## C++
 
+### Project structures
+
+* [Project skeleton](https://github.com/embeddedartistry/project-skeleton)
+* [Canonical Project Structure](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html)
+* [Pitchfork](https://github.com/vector-of-bool/pitchfork)
+
 ### Tutorials
 
 * [Learncpp](https://www.learncpp.com/)
@@ -46,6 +52,10 @@ Feel free to add more resources by submitting a pull request =)
 * [GDB guide by majid garoosi](https://www.aparat.com/v/h1WDJ)
 * [GDB guide by amanlou](https://disk.yandex.com/i/F7r7qU6GF5la2Q)
 * [G++ guide by majid garoosi](https://www.aparat.com/v/QiulU)
+
+### Makefile
+
+* [makefiletutorial](https://makefiletutorial.com/)
 
 ## Linux
 
